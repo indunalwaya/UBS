@@ -7,8 +7,8 @@ import org.jbehave.core.annotations.Then;
 import org.jbehave.core.annotations.When;
 import org.junit.Test;
 
-import com.ubs.opsit.timeconveter.BerlinClockTimeConverter;
-import com.ubs.opsit.timeconveter.TimeConverter;
+import com.ubs.opsit.timeconveter.interviews.BerlinClockTimeConverter;
+import com.ubs.opsit.timeconveter.interviews.TimeConverter;
 
 /**
  * Acceptance test class that uses the JBehave (Gerkin) syntax for writing stories.  You should not need to

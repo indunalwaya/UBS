@@ -7,8 +7,8 @@ import java.util.StringJoiner;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import com.ubs.opsit.timeconveter.BerlinClockTimeConverter;
-import com.ubs.opsit.timeconveter.TimeConverter;
+import com.ubs.opsit.timeconveter.interviews.BerlinClockTimeConverter;
+import com.ubs.opsit.timeconveter.interviews.TimeConverter;
 
 public class BerlinClockTimeConverterTest {
 

@@ -1,4 +1,4 @@
-package com.ubs.opsit.timeconveter;
+package com.ubs.opsit.timeconveter.interviews;
 
 public interface TimeConverter {
 	/**
